@@ -1,2 +1,2 @@
-# jdtoolkit-homepage
+# Lindsay's-homepage
 JD TOOLKIT 
