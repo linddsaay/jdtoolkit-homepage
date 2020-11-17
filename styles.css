@@ -5,8 +5,7 @@ body {
 	font-size: 20px;
 	padding: 1em;
 	text-align: center;
-	font-family: 'Xanh Mono', monospace;
-}
+	font-family: 'Cedarville Cursive', cursive;
 
 h1 {
 	color:  #FFFFFF;
@@ -14,7 +13,7 @@ h1 {
 }
 
 p {
-	font-family: 'Xanh Mono', monospace;
+	font-family: 'Cedarville Cursive', cursive;
 	color: #444;
 	max-width: 30em;
 	width: 100%;
