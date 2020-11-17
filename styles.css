@@ -5,7 +5,7 @@ body {
 	font-size: 20px;
 	padding: 1em;
 	text-align: center;
-	font-family: "Courier New", "Courier", monospace;
+	font-family: "La Belle Aurore", cursive;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 }
 
 p {
-	font-family: "Times New Roman", serif;
+	font-family: "La Belle Aurore", cursive;
 	color: #444;
 	max-width: 30em;
 	width: 100%;
