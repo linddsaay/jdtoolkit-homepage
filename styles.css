@@ -9,13 +9,13 @@ body {
 }
 
 h1 {
-	color:  #FFFFFF;
+	color:  #000000;
 	font-size: 3em;
 }
 
 p {
 	font-family: "La Belle Aurore", cursive;
-	color: #FFFFFF;
+	color: #000000;
 	max-width: 30em;
 	width: 100%;
 	text-align: left;
@@ -32,6 +32,6 @@ img.logo {
 	max-height: 40em;
 	border-style: solid;
   	border-width: 20px;
-	border-color:  #FFFFFF;
+	border-color:  #000000;
 	margin: 2em auto;
 }
