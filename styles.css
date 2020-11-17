@@ -5,7 +5,7 @@ body {
 	font-size: 20px;
 	padding: 1em;
 	text-align: center;
-	"font-family: "La Belle Aurore", cursive;
+	"font-family:'La Belle Aurore', cursive;
 	}
 
 h1 {
@@ -14,8 +14,7 @@ h1 {
 }
 
 p {
-	font-family: "La Belle Aurore", cursive;
-	color: #000000;
+	font-family: 'La Belle Aurore', cursive;
 	max-width: 30em;
 	width: 100%;
 	text-align: left;
