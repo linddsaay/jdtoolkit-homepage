@@ -1,0 +1,30 @@
+!DOCTYPE html>
+<html lang="en">
+
+	<head>
+  
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>VIDEO</title>
+		<link rel="stylesheet" href="styles.css" type="text/css" />
+		
+	</head>
+
+	<body>
+
+		<h1 class="main-hed">LOGO</h1>
+		<center><a href="https://linddsaay.github.io/jdtoolkit-homepage/">Home</a><center>
+
+		<a href="https://github.com/linddsaay/"><img class="logo" src="LAKLOGO.svg"></a>
+			
+			
+
+		<p><center>Here is a video from my past few months of quarantine. </center></p>
+		
+
+	
+	
+
+	</body>
+
+</html>
