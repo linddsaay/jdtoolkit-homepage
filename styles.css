@@ -32,5 +32,6 @@ img.logo {
 	max-height: 40em;
 	border-style: solid;
   	border-width: 20px;
+	border-color:#FFFFFF
 	margin: 2em auto;
 }
